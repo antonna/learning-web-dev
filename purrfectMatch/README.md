@@ -14,5 +14,5 @@
 - `index.html` – The main page for the matching experience.
 - `style.css` – The styling for the app, making it visually appealing.
 
-### 🔗 [Udemy: The Web Developer Bootcamp by Colt Steele](https://www.udemy.com/course/the-web-developer-bootcamp/)
+# 🔗 [Udemy: The Web Developer Bootcamp by Colt Steele](https://www.udemy.com/course/the-web-developer-bootcamp/)
 
