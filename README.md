@@ -11,7 +11,7 @@ Here are some of the projects included in this repository:
 - [**Sun Earth Moon**](https://antonna.github.io/learning-web-dev/sunEarthMoon/) –  A simulation of the Earth's rotation around the Sun.
 - [**Animate your name**](https://antonna.github.io/learning-web-dev/animateYourName/) –  Animates letters of any text.
 - [**Museum of candy**](https://antonna.github.io/learning-web-dev/museumOfCandy/) –   A Bootstrap 4 responsive website.
-- [**Image Gallery**](https://antonna.github.io/learning-web-dev/image-galery/) –   A simple Bootstrap 3 website using jumbotron and navbar.
+- [**Image Gallery**](https://antonna.github.io/learning-web-dev/image-gallery/) –   A simple Bootstrap 3 website using jumbotron and navbar.
 
 ## 🛠 Technologies Used  
 - **HTML, CSS, JavaScript**  
