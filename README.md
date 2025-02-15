@@ -9,6 +9,7 @@ Here are some of the projects included in this repository:
 - [**Status Update**](https://antonna.github.io/learning-web-dev/statusUpdate/) – A simple web app to post and track status updates.  
 - [**Push Menu**](https://antonna.github.io/learning-web-dev/pushMenu/) –  A simple, customizable push menu for web applications.  
 - [**Sun Earth Moon**](https://antonna.github.io/learning-web-dev/sunEarthMoon/) –  A simple, customizable push menu for web applications.
+- [**Animate your name**](https://antonna.github.io/learning-web-dev/animateYourName/) –  A simple, customizable push menu for web applications.
 
 ## 🛠 Technologies Used  
 - **HTML, CSS, JavaScript**  
