@@ -13,4 +13,4 @@ A simple, customizable push menu for web applications. This project demonstrates
 - **CSS3**
 - **JavaScript**
 
-- 🔗 [Codecademy](https://www.codecademy.com/)  
+🔗 [Codecademy](https://www.codecademy.com/)  
