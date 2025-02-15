@@ -21,4 +21,4 @@ In this project, we'll write a program that animates your name. When you move yo
 - `style.css` – The styling and animations for the text.
 - `main.js, bubbles.js, alphabet.js` – JavaScript to handle text animation.
 
-##### 🔗 [Codecademy](https://www.codecademy.com/
+##### 🔗 [Codecademy](https://www.codecademy.com/)  
