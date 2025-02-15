@@ -16,3 +16,5 @@
 - `index.html` – The main HTML structure of the museum.
 - `style.css` – The styling for the museum's design and layout.
 - `script.js` – JavaScript to handle the interactive features and animations.
+
+##### 🔗 [Udemy: The Web Developer Bootcamp by Colt Steele](https://www.udemy.com/course/the-web-developer-bootcamp/)
