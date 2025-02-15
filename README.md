@@ -12,6 +12,8 @@ Here are some of the projects included in this repository:
 - [**Animate your name**](https://antonna.github.io/learning-web-dev/animateYourName/) –  Animates letters of any text.
 - [**Museum of candy**](https://antonna.github.io/learning-web-dev/museumOfCandy/) –   A Bootstrap 4 responsive website.
 - [**Image Gallery**](https://antonna.github.io/learning-web-dev/image-gallery/) –   A simple Bootstrap 3 website using jumbotron and navbar.
+- [**Purrfect Match**](https://antonna.github.io/learning-web-dev/purrfectMatch/) –   A simple Bootstrap 3 website.
+- [**Number Guessing**](https://antonna.github.io/learning-web-dev/numberGuessing/) –   A simple yet fun web-based game.
 
 ## 🛠 Technologies Used  
 - **HTML, CSS, JavaScript**  
