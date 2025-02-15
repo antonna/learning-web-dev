@@ -1,10 +1,6 @@
-# animateYourName
-
-In this project, we'll write a program that animates your name. When you move your mouse over your name, bubbles will scatter away and then reassemble.
-
 # Animate Your Name
 
-**Animate Your Name** is an interactive web app that animates the letters of any text when moving your mouse over. Built with **HTML**, **CSS**, and **JavaScript**, it showcases various animation techniques to bring static text to life in fun and creative ways.
+**Animate Your Name** is an interactive website when you move your mouse over your name, the bubbles will scatter away and then reassemble.
 
 ## 🚀 Features
 - Animates letters of any text.
